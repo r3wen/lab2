@@ -26,7 +26,9 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url("../images/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg");
+     background-size: cover;
+     background-position: center;
      opacity: 0.2;
      top: 0;
      left: 0;
